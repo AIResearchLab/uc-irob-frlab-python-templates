@@ -1,1 +1,1 @@
-sphero-sdk
+sphero-sdk==0.3.4.post2
