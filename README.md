@@ -14,6 +14,6 @@ python3 -m venv .venv
 # source env
 source .venv/bin/activate
 
-# install ansible through dependencies
+# install dependencies
 pip install -r ./requirements.txt
 ```
